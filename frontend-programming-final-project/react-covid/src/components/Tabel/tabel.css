@@ -1,0 +1,35 @@
+h1,p{
+    text-align: center;
+
+}
+h1{
+    color: #05c3b6;
+}
+P{
+    color:#118AB2
+}
+table, th, td {
+    justify-content: center;
+    text-align: center;
+
+    border: 0.5px solid #00f7ff;
+    width: 50%;
+    margin-left: 250px;
+}
+
+  table{
+  }
+
+th{
+  height: 30px;
+    
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    
+    
+  }
+
+  tr:hover {background-color: rgb(235, 0, 0);}
